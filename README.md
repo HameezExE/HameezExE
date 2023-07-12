@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/HameezExE/HameezExE/blob/main/HeaderGH.png">
 
 # 🚀 About Me:
-👨‍💻 I love Designing & Developing impactful Web Experiences.<br>🔭 I’m currently working on My Personal Website & A/L Exams.<br>📫Reach me via HameezExE@gmail.com!
+👨‍💻 I love Designing & Developing impactful Web Experiences.<br>🔭 I’m currently working on My Personal Website & A/L Exams.<br>📫Reach me via HameezExE@gmail.com or,
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@HameezExE) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HameezExE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HameezExE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HameezExE) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HameezExE) 
 
