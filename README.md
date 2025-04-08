@@ -1,12 +1,29 @@
 <img align="center" src="https://github.com/HameezExE/HameezExE/blob/main/HeaderGH.png">
 
+<div align="center">
+  <a href="https://hameezexe.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/HameezExE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/HameezExE" target="_blank">
+    <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" />
+  </a>
+  <a href="https://threads.net/@HameezExE" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000?logo=threads&logoColor=white&style=for-the-badge" alt="Threads" />
+  </a>
+  <a href="https://facebook.com/HameezExE" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-000?logo=facebook&logoColor=1877F2&style=for-the-badge" alt="Facebook" />
+  </a>
+  <a href="mailto:hameezexe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000?logo=gmail&logoColor=EA4335&style=for-the-badge" alt="Gmail" />
+  </a>
+</div>
+
 # 👨‍💻 About Me:
 
 ⚡ I love crafting Elevated Web Experiences.<br>🔭 I’m currently working on a simple yet powerful & customizable markdown blog.<br>🌱 I’m currently learning Next.js & Express.js.
-
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HameezExE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hameezexe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HameezExE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hameezexe@gmail.com)
 
 ## Tech Stack 💻
 
