@@ -15,10 +15,12 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HameezExE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HameezExE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="180" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=HameezExE&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" height="180" alt="GitHub Streak" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=HameezExE&limit=5&theme=material-palenight&combine_all_yearly_contributions=true" height="180" alt="Top Contributions" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HameezExE&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HameezExE&layout=compact&theme=material-palenight&hide_border=false" height="180" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=HameezExE&theme=material-palenight&hide_border=false&border_radius=5" height="180" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=HameezExE&limit=5&theme=material-palenight&combine_all_yearly_contributions=true" height="180" />
 </div>
 
 <img src="https://raw.githubusercontent.com/HameezExE/HameezExE/output/snake.svg" alt="Snake animation" />
