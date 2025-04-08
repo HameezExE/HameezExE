@@ -92,11 +92,12 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HameezExE&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameezExE&layout=compact&theme=dark&hide_border=true" height="180" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=HameezExE&theme=dark&hide_border=true&border_radius=6" height="180" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=HameezExE&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" height="180" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HameezExE&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HameezExE&layout=compact&theme=material-palenight&hide_border=false" height="180" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=HameezExE&theme=material-palenight&hide_border=false&border_radius=5" height="180" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=HameezExE&limit=5&theme=material-palenight&combine_all_yearly_contributions=true" height="180" />
 </div>
 
 <img src="https://raw.githubusercontent.com/HameezExE/HameezExE/output/snake.svg" alt="Snake animation" />
