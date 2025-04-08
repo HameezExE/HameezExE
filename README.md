@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://hameezexe.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-151515?logo=heroku&logoColor=6B2EE4&style=for-the-badge" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio-151515?logo=hashicorp&logoColor=6B2EE4&style=for-the-badge" alt="Portfolio Website" />
   </a>
   <a href="https://linkedin.com/in/HameezExE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-151515?logo=linkedin&logoColor=0A66C2&style=for-the-badge" alt="LinkedIn" />
