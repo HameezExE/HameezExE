@@ -14,15 +14,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=HameezExE&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HameezExE&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HameezExE&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=HameezExE&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HameezExE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HameezExE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=HameezExE&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 <img src="https://raw.githubusercontent.com/HameezExE/HameezExE/output/snake.svg" alt="Snake animation" />
 
