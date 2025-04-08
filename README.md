@@ -1,8 +1,8 @@
 <img align="center" src="https://github.com/HameezExE/HameezExE/blob/main/HeaderGH.png">
 
-# 💫 About Me:
+# 👨‍💻 About Me:
 
-⚡ I love crafting Elevated Web Experiences<br>🔭 I’m currently working on a simple yet powerful markdown blog & my personal website.<br>🌱 I’m currently learning Next.js
+⚡ I love crafting Elevated Web Experiences.<br>🔭 I’m currently working on a simple yet powerful & customizable markdown blog.<br>🌱 I’m currently learning Next.js & Express.js.
 
 ## 🌐 Socials:
 
