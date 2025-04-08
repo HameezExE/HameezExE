@@ -106,5 +106,5 @@
 <img src="https://raw.githubusercontent.com/HameezExE/HameezExE/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-    ![GitHub Profile Views](https://komarev.com/ghpvc/?username=HameezExE&color=6B2EE4&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=HameezExE&color=6B2EE4&style=for-the-badge" alt="GitHub Profile Views" />
 </div>
