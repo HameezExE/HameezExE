@@ -37,19 +37,19 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-151515?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-151515?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### JS Framework/Library
+#### JS Frameworks/Libraries
 
 ![Next JS](https://img.shields.io/badge/-NextJS-151515?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-151515?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/-AngularJS-151515?style=for-the-badge&logo=angular)
 
-#### CSS Framework/Library/Pre-processors
+#### CSS Frameworks/Libraries
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-151515?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-151515?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-151515?style=for-the-badge&logo=sass)
 
-#### Design/Visual Tools
+#### Design Tools
 
 ![Figma](https://img.shields.io/badge/-Figma-151515?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-151515?style=for-the-badge&logo=adobexd&logoColor=white)
@@ -70,7 +70,7 @@
 ![Express.js](https://img.shields.io/badge/-ExpressJS-151515?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-151515?style=for-the-badge&logo=flask&logoColor=white)
 
-#### Web Hosting
+#### Hosting
 
 ![Vercel](https://img.shields.io/badge/-Vercel-151515?style=for-the-badge&logo=vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-151515?style=for-the-badge&logo=heroku)
@@ -78,7 +78,7 @@
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-151515?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-151515?style=for-the-badge&logo=netlify)
 
-#### Package Manager
+#### Package Managers
 
 ![NPM](https://img.shields.io/badge/-NPM-151515?style=for-the-badge&logo=npm&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-151515?style=for-the-badge&logo=bun&logoColor=white)
